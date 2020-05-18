@@ -40,15 +40,10 @@
                 {
                     "name": "Subnet-4",
                     "properties": {
-                        "addressPrefix": "10.0.3.0/24"
-                    }
-                },
-                 {
-                    "name": "Subnet-5",
-                    "properties": {
-                        "addressPrefix": "10.0.4.0/28"
+                        "addressPrefix": "10.0.3.0/28"
                     }
                 }
+                 
             ]
         }
     }],
